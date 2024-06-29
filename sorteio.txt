@@ -1,0 +1,10 @@
+Team B vs Team E
+Team A vs Team B
+Team B vs Team D
+Team A vs Team C
+Team A vs Team D
+Team A vs Team E
+Team C vs Team E
+Team B vs Team C
+Team C vs Team D
+Team D vs Team E
